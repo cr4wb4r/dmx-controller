@@ -1,2 +1,5 @@
 # dmx-controller
-Self made, open source, dmx controller using off the shelf components
+My selfmade DMX controller based on an Arduino MEGA. 
+No further information, just the code. 
+
+For Informations see the second version.
