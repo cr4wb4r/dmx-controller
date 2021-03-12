@@ -12,3 +12,7 @@ This is described in the branch "version 2".
 
 The code is not that professional, but it works for me.
 Further details are listed in the separate branches of this repository.
+
+
+
+Please look at the second version. The first on has very little informations.
