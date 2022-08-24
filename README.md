@@ -15,4 +15,4 @@ Further details are listed in the separate branches of this repository.
 
 
 
-Please look at the second version. The first on has very little informations.
+The current program files "dmx_send_20.4.ino" and "effects.h" are uploaded in this repository. For further informations visit the corresponding branches.
